@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>{{Artificial}}</title>
+  <style>
+    body { font-family: serif; max-width: 700px; margin: 2em auto; line-height: 1.8; }
+    h1 { font-size: 1.5em; border-bottom: 1px solid #ccc; padding-bottom: 0.5em; }
+    hr { border: none; border-bottom: 1px solid #ccc; }
+  </style>
+</head>
+<body>
+  <h1>死んだ人</h1>
+<div>死んだ人は何よりも自由だろう。死ぬことでその意識は霧散し、世界への執着は消失する。もしかしたら死んだあの子と区別すらつかないのかもしれない僕らがここに代わりに生きている。あの子が代わりに死んでいる。
+早く死にたいのだ。次に躁になったら死のう。どこか遠くへ、自由な場所へ。</div>
+  <div>(終)</div>
+  <hr>
+  <a href="../index.html">Artificial</a>
+</body>
+</html>
